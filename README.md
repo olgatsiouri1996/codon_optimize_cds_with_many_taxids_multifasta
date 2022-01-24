@@ -1,5 +1,5 @@
 # codon_optimize_cds_with_many_taxids_multifasta
- Linux GUI app to codon optimize a multi-fasta file with coding sequence
+Linux GUI app to codon optimize a multi-fasta file with coding sequences with multiple taxonomy ids
 
 ![](img/program_gui.png)
 
