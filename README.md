@@ -1,4 +1,4 @@
-# codon_optimize_cds_with_many_taxids_multifasta
+# codon_optimize_cds_with_many_taxids_multifasta [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5897349.svg)](https://doi.org/10.5281/zenodo.5897349)
 Linux GUI app to codon optimize a multi-fasta file with coding sequences with multiple taxonomy ids
 
 ![](img/program_gui.png)
